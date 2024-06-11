@@ -1,3 +1,6 @@
+ <img src="https://github.com/zeynepcircir/users-list/assets/81877446/d7c86dc5-f6dc-4037-9cca-80f72784c88a" alt="Image 3" width="1000">
+
+
 # UserList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
